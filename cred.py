@@ -1,2 +1,2 @@
-sender_email = "kredfox4@gmail.com"
-sender_password = "Chamber2012!"
+sender_email = "your email address"
+sender_password = "your password"
